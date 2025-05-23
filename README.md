@@ -47,4 +47,4 @@ This project is divided into two key tasks:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/BCG_GenerativeAI_Simulation.git
-   cd BCG_GenerativeAI_Simulation
+   cd BCG_X_GEN_AI_Simulation
